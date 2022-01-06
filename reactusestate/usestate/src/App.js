@@ -44,7 +44,7 @@ function App() {
     <button onClick={() => addfive(5)}>Add 5</button>
     <button onClick={() => changeCount(2)}>divide by 2</button>
     <button onClick={subtractOne}>sub1</button>
-    <button onClick={intoTwo}>multiply by 2</button>
+    <button onDoubleClick={intoTwo}>multiply by 2</button>
     <div>Counter is {count % 2 === 0 ? "even":"odd"}</div>
      </div>
    )
