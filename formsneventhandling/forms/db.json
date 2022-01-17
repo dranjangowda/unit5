@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "ranjan__gowda",
+      "age": "23",
+      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
+      "department": "",
+      "salary": "5000",
+      "married": true,
+      "id": 1
+    },
+    {
+      "username": "raksha",
+      "age": "23",
+      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
+      "department": "",
+      "salary": "5000",
+      "married": true,
+      "id": 2
+    },
+    {
+      "username": "raksha",
+      "age": "23",
+      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
+      "department": "",
+      "salary": "5000",
+      "married": true,
+      "id": 3
+    },
+    {
+      "username": "ra",
+      "age": "23",
+      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
+      "department": "",
+      "salary": "5000",
+      "married": true,
+      "id": 4
+    },
+    {
+      "username": "ranjan__gowda",
+      "age": "55",
+      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
+      "department": "engineering",
+      "salary": "5000",
+      "married": true,
+      "id": 5
+    }
+  ]
+}
