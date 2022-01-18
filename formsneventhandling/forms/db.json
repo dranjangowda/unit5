@@ -2,48 +2,37 @@
   "users": [
     {
       "username": "ranjan__gowda",
-      "age": "23",
-      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
-      "department": "",
+      "age": "25",
+      "address": "banglore",
+      "department": "engineering",
       "salary": "5000",
       "married": true,
       "id": 1
     },
     {
-      "username": "raksha",
-      "age": "23",
-      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
+      "username": "rahul",
+      "age": "54",
+      "address": "chikmagalur",
       "department": "",
-      "salary": "5000",
+      "salary": "4000",
       "married": true,
       "id": 2
     },
     {
-      "username": "raksha",
-      "age": "23",
-      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
-      "department": "",
-      "salary": "5000",
-      "married": true,
+      "username": "jeevan",
+      "age": "32",
+      "address": "delhi",
+      "department": "engineering",
+      "salary": "4000",
       "id": 3
     },
     {
-      "username": "ra",
-      "age": "23",
-      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
-      "department": "",
-      "salary": "5000",
-      "married": true,
+      "username": "rakesh",
+      "age": "45",
+      "address": "haryana",
+      "department": "housemaintanance",
+      "salary": "78555",
       "id": 4
-    },
-    {
-      "username": "ranjan__gowda",
-      "age": "55",
-      "address": "S/O D,A JAGADISH , 205, KANCHINAKAL DURGA,ALDUR, CHIKMAGALUR",
-      "department": "engineering",
-      "salary": "5000",
-      "married": true,
-      "id": 5
     }
   ]
 }

@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "./form.css"
-import {Table} from "./table"
 import axios from  "axios"
 import {nanoid} from "nanoid"
 //for multiple input you should have only one handleChnage and handleSubmit funciton 
@@ -75,7 +74,6 @@ export const Form =()=>{
                 {/* <input type="submit"/> */}
             </form>
             <button onClick={postData}>post data</button>
-            <Table form={form}/>
           </div>
     )
 }
