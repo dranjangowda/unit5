@@ -1,0 +1,33 @@
+{
+  "games": [
+    {
+      "gamename": "ewr",
+      "gameauthor": "er",
+      "gametags": "ewr",
+      "gameprice": "wer",
+      "forkids": true,
+      "gamedesc": "wer",
+      "gamerating": "",
+      "id": 1
+    },
+    {
+      "gamename": "ewr",
+      "gameauthor": "er",
+      "gametags": "ewr",
+      "gameprice": "wer",
+      "forkids": true,
+      "gamedesc": "wer",
+      "gamerating": "",
+      "id": 2
+    },
+    {
+      "gamename": "",
+      "gameauthor": "",
+      "gameprice": "",
+      "forkids": "",
+      "gamedesc": "",
+      "gamerating": "4",
+      "id": 3
+    }
+  ]
+}
