@@ -1,0 +1,29 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .mainSlider {
+    background: #eca;
+  }
+  h3 {
+    text-align: center;
+  }
+  img{
+    width: 100%;
+  }
+  .slick-next{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    color: black;
+  }
+  .slick-prev{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    color: black;
+  }
+  .slider{
+    width: 95%;
+    margin: auto;
+  }

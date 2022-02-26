@@ -1,0 +1,10 @@
+.footer{
+    width: 98.3%;
+    margin: auto;
+    margin-top: 25px;
+}
+.footer > img{
+    width: 100%;
+    margin: -2px auto;
+    border-radius: 0%;
+}

@@ -1,0 +1,17 @@
+.landing {
+    width: 100%;
+    margin: auto;
+    
+}
+
+.landing h2{
+    text-align: start;
+    margin-bottom: -25px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+.landing p{
+    text-align: start;
+    margin-bottom: -25px;
+    margin-left: 25px;
+}
